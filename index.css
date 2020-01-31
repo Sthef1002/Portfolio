@@ -1,0 +1,38 @@
+h1{
+    color:#808080;
+    font-size: 30px;
+}
+h2{
+    color:#808080;
+}
+h3{
+    color:orangered;
+}
+p{
+    color: gray;
+}
+ul{
+    color:gray;
+}
+a{
+    color:gray;
+}
+a:hover {
+    color: darkblue;
+}
+hr{
+    color:gray;
+}
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    padding-left: 15px;
+}
+#image_box{
+    width: 100%;
+    display: flex;
+    align-content: flex-end;
+    border-radius:50%;
+}
+body{
+    background-color: white;
+}
